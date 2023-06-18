@@ -15,6 +15,8 @@ int main(int argc, char *argv[])
   Range_signed(SIZE(int),'Y');
   printf("range of unsinged int\n");
   Range_signed(SIZE(unsigned int),'N');
+  printf("range of long int\n");
+  Range_signed(SIZE(long int),'Y');
   printf("range of char\n");
   Range_signed(SIZE(char),'Y');
   printf("range of float\n");
