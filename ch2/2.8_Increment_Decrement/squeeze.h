@@ -1,0 +1,1 @@
+void squeeze(char*,char*);
