@@ -10,7 +10,7 @@ int any(char s1[],char s2[])
     for(i=j=0;s1[i]!='\0';i++)
       {
         if(s1[i]==s2[k])
-          return ++i;
+          return i;
       }
   }
   return -1;
