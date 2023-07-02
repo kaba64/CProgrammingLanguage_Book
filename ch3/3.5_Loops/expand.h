@@ -1,0 +1,1 @@
+void expand(char* ,char*);
