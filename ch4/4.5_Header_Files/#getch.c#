@@ -1,6 +1,0 @@
-#include <stdio.h>
-
-int getch(void) /*get a possibly pushed back character*/
-{
-  return (bufp>0) getchar();
-}
