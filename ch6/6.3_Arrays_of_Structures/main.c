@@ -89,7 +89,6 @@ int getword(char *word, int lim)
   if (c != EOF)
     *w++ = c;
   if (!isalpha(c)) {
-    printf("1 : hi\n");
     *w = '\0';
     return c;
   }
