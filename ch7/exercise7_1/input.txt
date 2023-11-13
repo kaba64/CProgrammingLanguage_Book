@@ -1,0 +1,2 @@
+Hi Kazem!
+Nice to learning about input and output in C Language!
